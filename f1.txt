@@ -1,2 +1,2 @@
 file1: correo electrónico
-juanpelles@gmail.com
+juanpelles@gmail.es
